@@ -1,6 +1,13 @@
+🧠 Brain Tumor Segmentation Using U-Net (BraTS2020)
+## Trained Model & Logs & colab notebook
+
+Download the trained model and logs here:
+
+🔗 (https://drive.google.com/drive/folders/1TkiUmfpwgSH9fXZ4o-7p_VNfiZXEKUAG)
+
+Download the colab note book here:
 
 https://colab.research.google.com/drive/1-GmaEp9aJjnjk4_I5qjR86YALorbggy1#scrollTo=XPgL_RpotpBi
-🧠 Brain Tumor Segmentation Using U-Net (BraTS2020)
 
 This project implements a multi-class brain tumor segmentation model using a U-Net architecture trained on the BraTS2020 MRI dataset.
 The model segments the brain tumor into three clinically meaningful sub-regions:
